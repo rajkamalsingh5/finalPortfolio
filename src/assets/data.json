@@ -1,0 +1,55 @@
+{
+    "projects": [
+
+        {
+            "date": "22/4/2023",
+            "title": "WheatherApp",
+            "description": "This website is made with html ,css and js using wheather api..",
+            "url": "https://rajkamalsingh5.github.io/wheatherapp/",
+            "imgSrc": "../game.png"
+          },
+
+          {
+            "date": "8/9/2023",
+            "title": "NARUTOvsTHANOS",
+            "description": "NARUTOvsTHANOS is a web game based on old mobile/dekstop dragon jumping game build using basic html,css and js ",
+            "url": "https://rajkamalsingh5.github.io/NARUTOvsTHANOS2.0/",
+            "imgSrc": "../game.png"
+          },
+
+
+     
+          {
+            "date": "12/3/2024",
+            "title": "KhabarBarabar-A NewsApp",
+            "description": "KhabarBarabar is a api based website for fetching global news having various topics at one place...",
+            "url": "https://github.com/rajkamalsingh5/NewsApp.git",
+            "imgSrc": "./me1.jpeg"
+          },
+
+          {
+            "date": "25/3/2024",
+            "title": "TODO React-App",
+            "description": "App to manage todos..",
+            "url": "/",
+            "imgSrc": "/"
+          },
+     
+
+      {
+        "date": "21/4/2024",
+        "title": "Foodizz",
+        "description": "Foodizz is a fullstack website made by a food lover for food lovers...",
+        "url": "/",
+        "imgSrc":"assets/game.png"
+      },
+     
+      {
+        "date": "24/5/2024",
+        "title": "PORTFOLIO",
+        "description": "This is my portfolio showcasing my project work along with my other skills..",
+        "url": "/",
+        "imgSrc": ""
+      }
+    ]
+  }
