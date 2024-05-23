@@ -27,7 +27,7 @@ const Work = () => {
                 <img src= {game}  alt="game" />
                 <aside>
                   <h3>NARUTOvsTHANOS</h3>
-                  <p> NARUTOvsTHANOS is a web game based on old mobile/dekstop dragon jumping game build using basic html,css and js </p>
+                  <p> NARUTOvsTHANOS is a web game  using basic html,css and js </p>
                   <a href="https://rajkamalsingh5.github.io/NARUTOvsTHANOS2.0/" target="blank">
                     View Demo
                   </a>
@@ -37,7 +37,7 @@ const Work = () => {
            <div className="workItem">
                 <img src= {food}  alt="Foodizz" />
                 <aside>
-                  <h3>Foodizz for food lovers</h3>
+                  <h3>Foodizz</h3>
                   <p>Foodizz is a fullstack website made by a food lover for food lovers..</p>
                   <a target="blank" href="https://foodizz-liart.vercel.app/cart">
                     View Demo
@@ -49,7 +49,7 @@ const Work = () => {
                 <img src={port} alt="portfolio" />
                 <aside>
                   <h3>Portfolio</h3>
-                  <p>This is my portfolio showcasing my project work along with my other skills..</p>
+                  <p> portfolio showcasing my project work along with my other skills..</p>
                   <a target="blank" href="/">
                     View Demo
                   </a>
@@ -70,7 +70,7 @@ const Work = () => {
                 <img src= {news}  alt="newsApp" />
                 <aside>
                   <h3>KhabarBarabar-A NewsApp</h3>
-                  <p>KhabarBarabar is a api based website for fetching global news having various topics at one place...</p>
+                  <p>KhabarBarabar is a api based website for fetching global news </p>
                   <a href=" https://github.com/rajkamalsingh5/NewsApp.git" target="blank">
                     View Demo
                   </a>
@@ -81,7 +81,7 @@ const Work = () => {
                 <img src= {todo}  alt="Todo" />
                 <aside>
                   <h3>Todo- Your time saver</h3>
-                  <p>This project aims to implement the knowledge of web development to create an website which can save time by managing tasks</p>
+                  <p>A web development project which can save time by managing tasks.</p>
                   <a href="https://todo-chb2.vercel.app/" target="blank">
                     View Demo
                   </a>
