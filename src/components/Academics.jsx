@@ -34,7 +34,7 @@ const Academics = () => {
           whileInView={animations.whileInView}
           initial={animations.one}
         >
-          <h3>CBSE Xth Board 96.4%</h3>
+          <h3>CBSE Xth Board 96.4% (best 5)</h3>
 
           <h3>CBSE XIIth Board 97.4%</h3>
         </motion.div>
@@ -63,7 +63,7 @@ const Academics = () => {
           initial={animations.four}
         >
           <AiFillBook />
-          <span>9+ cgpa (till 4th sem)</span>
+          <span> 8.98 cgpa (till 4th sem)</span>
         </motion.div>
       </section>
     </div>
