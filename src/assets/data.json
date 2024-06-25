@@ -50,6 +50,13 @@
         "description": "This is my portfolio showcasing my project work along with my other skills..",
         "url": "/",
         "imgSrc": ""
+      },
+      {
+        "date": "16/6/2024",
+        "title": "padhAI",
+        "description": "A react web app ",
+        "url": "https://allinone-two.vercel.app/",
+        "imgSrc": "../padhai.png"
       }
     ]
   }

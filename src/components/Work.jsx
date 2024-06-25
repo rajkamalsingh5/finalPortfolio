@@ -7,6 +7,7 @@ import wheather from "../assets/wheather.jpg"
 import food from "../assets/foodizz.png"
 import port from "../assets/random.jpg"
 import todo from "../assets/todo.png"
+import padhai from "../assets/padhai.png"
 const Work = () => {
   return (
     <div id="work">
@@ -23,6 +24,17 @@ const Work = () => {
             autoPlay={true}
           >
            
+           <div className="workItem">
+                <img src= {padhai}  alt="study" />
+                <aside>
+                  <h3>PadhAI</h3>
+                  <p> A web app designed for providing end to end assistance to college students..  </p>
+                  <a href="https://allinone-two.vercel.app/" target="blank">
+                    View Demo
+                  </a>
+                </aside>
+              </div>
+
            <div className="workItem">
                 <img src= {game}  alt="game" />
                 <aside>
